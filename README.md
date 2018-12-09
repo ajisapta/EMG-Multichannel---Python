@@ -1,6 +1,6 @@
 # EMG-Multichannel---Python
 
-This Multichannel EMG uses Data acquisition, namely NI USB 6009 with the python programming language
+This Multichannel EMG uses Data acquisition, namely NI USB 6009 with a python programming language with a GUI
 
 
 This requires several requirements, namely:
@@ -13,9 +13,12 @@ This requires several requirements, namely:
 To open this Multichannel EMG by opening the Multichannel EMG, please wait, the program will open.
 EMG result data will be stored in the Record Data folder but must be set in the script launcher section.
 
+Display Programs Like This:
 
 
 
 This program is the result of the Final Project by:
 Aji Sapta Pramulen
 Airlangga University Surabaya
+contact point
+aji.sapta.pramulen-2014@fst.unair.ac.id
