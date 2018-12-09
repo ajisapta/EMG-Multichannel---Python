@@ -14,7 +14,8 @@ To open this Multichannel EMG by opening the Multichannel EMG, please wait, the 
 EMG result data will be stored in the Record Data folder but must be set in the script launcher section.
 
 Display Programs Like This:
-https://github.com/ajisapta/EMG-Multichannel---Python/blob/master/Hasil%20Gambar.PNG?raw=true
+![Display](https://github.com/ajisapta/EMG-Multichannel---Python/blob/master/Hasil%20Gambar.PNG?raw=true)
+
 
 
 This program is the result of the Final Project by:
